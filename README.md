@@ -15,7 +15,7 @@ Delhi, India &nbsp;|&nbsp; [GitHub](https://github.com/Skand203) &nbsp;|&nbsp; [
 I am a Computer Science and Engineering undergraduate focused on building robust backend systems, reliable cloud infrastructure, and practical security software.
 
 - **Systems-first mindset:** I prefer learning through building from scratch—understanding how protocols, operating thresholds, and cloud services behave under real-world conditions rather than treating them as black boxes.
-- **Backend & Cloud:** Experienced with Python and TypeScript backends, RESTful API design, and event-driven serverless architectures on Amazon Web Services (AWS).
+- **Backend & Cloud:** Experienced with Python backends (FastAPI, Flask), RESTful API design, and event-driven serverless architectures on Amazon Web Services (AWS).
 - **Security Engineering Interest:** Engaged in network intrusion anomaly detection, threshold calibration transfer research, and security telemetry analysis.
 - **Goal:** Seeking a backend / software engineering role where I can contribute to production-grade services, API design, and scalable infrastructure.
 
@@ -25,16 +25,12 @@ I am a Computer Science and Engineering undergraduate focused on building robust
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST-Architecture-blue?style=flat-square)
 ![Event-Driven](https://img.shields.io/badge/Event--Driven-Architecture-blueviolet?style=flat-square)
 
@@ -112,7 +108,7 @@ I am a Computer Science and Engineering undergraduate focused on building robust
   - Built a serverless API endpoint in Next.js that validates input bounds and prompts Google Gemini Flash to identify psychological urgency, malicious URLs, and OTP extraction patterns.
   - Structured risk outputs into strict JSON schemas (`Safe`, `Suspicious`, `High Danger`) paired with empathetic, non-technical guidance.
   - Implemented native browser Web Speech API synthesis (`SpeechSynthesis`) for one-tap voice readouts in Hindi (`hi-IN`) and English (`en-US`), paired with WCAG AA compliant high-contrast UI.
-- **Tech Stack:** Next.js 16 (App Router), TypeScript, Google Gemini API, Tailwind CSS, Web Speech API.
+- **Tech Stack:** Next.js, Google Gemini API, Tailwind CSS, Web Speech API.
 
 ---
 
